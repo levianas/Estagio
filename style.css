@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: #4CAF50;
+    background: #822ce6;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -62,3 +62,4 @@ nav ul li a {
 nav ul li a:hover {
     color: #FFEB3B;
 }
+
